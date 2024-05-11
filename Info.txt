@@ -1,0 +1,9 @@
+Text
+ChannelId
+Count
+Your Discord Token
+Delay
+
+
+replace Text with your text, ChannelId with your channelId ...
+Write your text in a singular line, channelid in a singular line ...
